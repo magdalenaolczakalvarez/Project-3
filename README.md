@@ -25,3 +25,7 @@ The statistics displayed on this graph indicate that 71% of the listings in DC a
 ![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/7e2f554d-8515-439d-8ebc-c71de10c61f7)
 
 
+
+
+
+
