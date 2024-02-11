@@ -18,6 +18,12 @@ Neighborhoods: This includes a list of 40 defined neighborhoods as well as a geo
 
 Calendars: This dataset represents a ‘calendar’ of prices and listings for each day for the following year (from the time the data was collected).
 
+
+
+![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/c6d2ad3a-43c1-4009-a9db-57dfb14a240e)
+
+
+
 Housing
 
 The statistics displayed on this graph indicate that 71% of the listings in DC are for a etire home or apartment. Although this could result in higher profits for hosts and AirBnB, it also means that over 4000 potential housing units will not be accessible to residents throughout the year, which may concern housing regulators.
