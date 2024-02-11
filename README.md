@@ -19,8 +19,15 @@ Neighborhoods: This includes a list of 40 defined neighborhoods as well as a geo
 Calendars: This dataset represents a ‘calendar’ of prices and listings for each day for the following year (from the time the data was collected).
 
 
+Over time, the number of listings has changed. As you can see from this plot, the number of unique listings in D.C. has increased. In the past few years, there has been a sharp increase, which levels off around 2023.
 
 ![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/c6d2ad3a-43c1-4009-a9db-57dfb14a240e)
+
+
+AirBnB has had a significant impact on cities like D.C. based on available data. 
+
+People are turning to this platform instead of traditional options like hotels for their travel accommodations.
+
 
 
 
