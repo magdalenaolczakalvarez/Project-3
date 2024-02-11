@@ -24,9 +24,13 @@ Over time, the number of listings has changed. As you can see from this plot, th
 ![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/c6d2ad3a-43c1-4009-a9db-57dfb14a240e)
 
 
-AirBnB has had a significant impact on cities like D.C. based on available data. 
+Additionally, the total number of comments has changed over time. Over time, the quantity of comments/reviews for listings in D.C has increased.
+ 
 
-People are turning to this platform instead of traditional options like hotels for their travel accommodations.
+![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/370f974c-9907-4a3a-829d-f4ca9c2cc3b5)
+
+
+This plot shows sharb increase around 2023 that was seen above in the listings plot. 
 
 
 
@@ -56,7 +60,7 @@ The average price of all of their listings is $149.28
 
 The average availability of Sojourn' listings is 275 days per year. 
 
-Using the mean price of their listings, the availability and an average occupancy rate of 51.85%, Sojourn'yearlyAirbnb revenue is $4,462,916.59.
+Using the mean price of their listings, the availability and an average occupancy rate of 51.85%, Sojourn'yearly Airbnb revenue is $4,462,916.59.
 
 
 
@@ -69,6 +73,9 @@ Using the mean price of their listings, the availability and an average occupanc
 
 
 
+AirBnB has had a significant impact on cities like D.C. based on available data. 
+
+People are turning to this platform instead of traditional options like hotels for their travel accommodations.
 
 
 
