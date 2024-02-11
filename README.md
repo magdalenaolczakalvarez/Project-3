@@ -29,6 +29,29 @@ The Listings host distribution is designed to shows listings each host has on Ai
 ![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/56c83a38-8558-4c9e-8710-22b90b54e34f)
 
 
+The Sojourn Analysis
+
+Sojourn is an Airbnb host with 231 listings in Washington, DC. 
+
+![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/e99a52f0-c440-44b3-9011-fb25c42d4425)
+
+Their listings are located in 45 different neighborhoods, each with varying prices as can be seen in the plot below. 
+
+![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/d09bff03-6d0b-41d3-b6f7-76584ba19077)
+
+The average price of all of their listings is $149.28
+
+The average availability of Sojourn' listings is 275 days per year. 
+
+Using the mean price of their listings, the availability and an average occupancy rate of 51.85%, Sojourn'yearlyAirbnb revenue is $4,462,916.59.
+
+
+
+
+
+
+
+
 
 
 
