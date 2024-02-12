@@ -6,8 +6,9 @@ The popularity of Airbnb has skyrocketed over the past decade. A tool that allow
 
 Data
 
-This analysis relied on data provided by InsideAirbnb.com, an open source tool that scrapes Airbnb data to answer my question about how Airbnb data affects a city's housing landscape. Raw data provided by them is extremely useful. 
-There are four csv files per city available on this site for download: Listings, Neighborhoods, Reviews, and Calendar. Each dataset contained different information with some overlap.
+The data used in this analysis comes from InsideAirbnb.com. This site houses datasets for Airbnb information on cities around the globe. It's an open source tool that scrapes Airbnb data to answer my question about how Airbnb data affects a city's housing landscape. The raw data provided by them is extremely useful. 
+
+There are four csv files per city available on this site for download: Listings, Neighborhoods, Reviews, and Calendar. Each dataset contains different information with some overlap.
 
 Neighborhoods: This includes a list of defined neighborhoods as well as a geojson file that defines each neighborhood's boundary coordinates.
 
