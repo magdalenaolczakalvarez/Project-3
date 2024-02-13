@@ -138,7 +138,7 @@ Listings are available, on average, 193 days out of the year
 ![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/873da3ce-7916-42fc-b49e-c2d8785734ac)
 
 
-32% of listings are the sole listing for that host
+32% of listings are the sole listing for Sojourn host
 
 ![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/a641be8c-0818-40ae-bb30-f0cee173263d)
 
