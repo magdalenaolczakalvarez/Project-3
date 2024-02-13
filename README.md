@@ -88,12 +88,16 @@ The average availability of Sojourn' listings is 275 days per year.
 Using the mean price of their listings, the availability and an average occupancy rate of 51.85%, Sojourn'yearly Airbnb revenue is $4,462,916.59.
 
 
+
+
 Licensed or Not 
 
 The law imposing new restriction on short-term rentlas applies specifically to those rentals lastings less than 30 days at a time. Under the new law any D.C. homeowner who wants to rent out a bedroom, basement, or entire home on Airbnb or any other platform has to get a short-term rental license. If the owner is present in the home during the rental, they can host short-term renters as longas they want over the course of each year. But if they are not present (say they are renting their primary home while they are gone during the summer), those rentals are limited to a combined 90 days each year.
 
 
 ![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/f1910b3c-abf8-4c2c-8242-a362fd105963)
+
+
 
 
 
