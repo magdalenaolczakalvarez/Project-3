@@ -149,6 +149,13 @@ Listings are available, on average, 193 days out of the year
 ![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/b0b0d030-9c02-47e6-96cd-fcab0b4034db)
 
 
+The host "Nicole" received the most reviews. 
+
+![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/98ce5abb-e6b0-41ba-b0d9-82dc181f07ed)
+
+
+![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/3aafb978-8e3e-4a9a-a225-2c388678998f)
+
 
 As a result of my project, I gained quite a bit of information about Airbnb in Washington, D.C., which is going to be very helpful in planning my next trip there. 
 There are still many different angles I could take as follow up steps or improvement work on this project. For example, by grouping neighborhoods by ward, I could calculate the average price for each one, allowing me to plan by location and price simultaneously. Additionally, I could use latitude/longitude, different attractions, or distance to mall to find the best host. Nevertheless, due to time constraints, I decided to put it on my next smaller project. 
