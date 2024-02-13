@@ -162,7 +162,7 @@ The host "Nicole" received the most reviews.
 
 
 As a result of my project, I gained quite a bit of information about Airbnb in Washington, D.C., which is going to be very helpful in planning my next trip there. 
-There are still many different angles I could take as follow up steps or improvement work on this project. For example, by grouping neighborhoods by ward, I could calculate the average price for each one, allowing me to plan by location and price simultaneously. Additionally, I could use latitude/longitude, different attractions, or distance to mall to find the best host. Nevertheless, due to time constraints, I decided to put it on my next smaller project. 
+There are still many different angles I could take as follow up steps or improvement work on this project. For example, by grouping neighborhoods by wards, I could calculate the average price for each one, allowing me to plan by location and price simultaneously. Additionally, I could use latitude/longitude, different attractions, or distance to mall to find the best host. Nevertheless, due to time constraints, I decided to put it on my next smaller project. 
 
 
 
