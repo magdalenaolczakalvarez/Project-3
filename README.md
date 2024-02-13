@@ -4,9 +4,10 @@ Description
 
 The popularity of Airbnb has skyrocketed over the past decade. A tool that allows travelers to experience destinations like locals instead of tourists. Homeowners also use it to make some extra money by renting out rooms or entire properties. Whether for the better or for the worse, Airbnb has transformed the travel and short-term rental industry.
 
-Data
+Data 
 
-The data used in this analysis comes from InsideAirbnb.com. This site houses datasets for Airbnb information on cities around the globe. It's an open source tool that scrapes Airbnb data to answer my question about how Airbnb data affects a city's housing landscape. The raw data provided by them is extremely useful. 
+The data used in this project comes from InsideAirbnb.com. This site houses datasets for Airbnb information on cities around the globe. It's an open source tool that scrapes Airbnb data to answer my question about how Airbnb data affects a city's housing landscape and as a potential guest, where are the most affordable yet well rated and reviewed listings? The raw data provided by them is extremely useful. 
+
 
 There are four csv files per city available on this site for download: Listings, Neighborhoods, Reviews, and Calendar. Each dataset contains different information with some overlap.
 
@@ -18,6 +19,10 @@ Reviews: There are almost 505,377,000 reviews associated with unique listing ids
 
 Calendars: This dataset represents a ‘calendar’ of prices and listings for each day for the following year (from the time the data was collected).
 
+
+Data Analysis
+Started the analysis by looking at the General Distribution of the Prices to get a feel for the pricing landscape:
+Because 79% of listings fell under $300 per night, in my opinion the most affordable price, I plotted the distribution within this range for better visibility:
 
 Over time, the number of listings has changed. As you can see from this plot, the number of unique listings in D.C. has increased. In the past few years, there has been a sharp increase, which levels off around 2023.
 
