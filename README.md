@@ -18,7 +18,7 @@ Neighborhoods: This includes a list of defined neighborhoods as well as a geojso
 
 Listings: The listings dataset includes the bulk of the data-listing names, locations (latitude/longitude), neighborhoods, hosts, room types, prices, minimum nights the listing must be booked for, the number of reviews for that listing, the date when the last review was written, the average number of reviews per month, availability (number of days out of 365 the listing is available for booking), and the number of listings per host.
 
-Reviews: There are almost 505,377,000 reviews associated with unique listing ids. These are the same listing ids as in the Listings dataset. The dates of these reviews range from January 2023 to the time the data was collected.
+Reviews: There are almost 505,377,000 reviews associated with unique listing ID`s. These are the same listing ids as in the Listings dataset. The dates of these reviews range from January 2023 to the time the data was collected.
 
 Calendars: This dataset represents a ‘calendar’ of prices and listings for each day for the following year (from the time the data was collected).
 
