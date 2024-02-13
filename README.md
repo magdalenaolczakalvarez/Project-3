@@ -105,6 +105,7 @@ Through my EDA Analysis process, I found some initial insights about the data:
 
 
 There are 6,853 unique listings in D.C.
+
 ![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/d3078536-8820-43f5-adaa-7138be3b63d9)
 
 
