@@ -34,7 +34,7 @@ Because 79% of listings fell under $300 per night, in my opinion the most afford
 
 ![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/bdc4875b-c0d3-4347-8894-e48bbbf1be49)
 
-As can be seen, the distribution is right-skewed meaning that the very few listings priced very high influence the distribution shape whereas most of the listings are centered around $100 and is under $200.
+As can be seen, the distribution is left-skewed meaning that the very few listings priced very high influence the distribution shape whereas most of the listings are centered around $100 and is under $200.
 
 From an initial summary data inquiry, the median is $120 and the mean is $194 which is pretty affordable keeping in mind that this is the capital city of the United States. 
 
