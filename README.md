@@ -135,7 +135,7 @@ Listings are available, on average, 193 days out of the year
 
 
 
-T
+
 
 
 
