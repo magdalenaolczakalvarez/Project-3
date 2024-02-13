@@ -41,7 +41,8 @@ From an initial summary data inquiry, the median is $120 and the mean is $194 wh
 
 Room Types and Price Distribution
 
-The statistics displayed on this graph indicate that 76% of the listings in DC are for a entire home or apartment. Although this could result in higher profits for hosts and Airbnb, it also means that over 4000 potential housing units will not be accessible to residents throughout the year, which may concern housing regulators.
+The statistics displayed on this graph indicate that 76% of the listings in DC are for a entire home or apartment. Although this could result in higher profits for hosts and Airbnb, it also means that over 4000 potential housing units will not be accessible to residents throughout the year, which may concern housing regulators. Entire home listings have the most potential to disrupt residential communities, remove housing, displace residence, raise housing costs, and conflict with zoning laws. 
+
 
 ![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/7e2f554d-8515-439d-8ebc-c71de10c61f7)
 
@@ -56,6 +57,44 @@ I have charted the median and mean prices of each neighborhood in Washington, DC
 
 
 ![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/c295bf0c-4c19-479d-b2ba-a55497ec21a9)
+
+
+
+The Listings host distribution is designed to shows listings each host has on Airbnb. This can be useful for understanding the level of competition among the hosts. 
+
+![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/56c83a38-8558-4c9e-8710-22b90b54e34f)
+
+
+Over time, the number of listings has changed. As you can see from this plot, the number of unique listings in D.C. has increased. In the past few years, there has been a sharp increase, which levels off around 2023.
+
+![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/c6d2ad3a-43c1-4009-a9db-57dfb14a240e)
+
+
+
+he Sojourn Analysis
+
+Sojourn is an Airbnb host with 231 listings in Washington, DC. 
+
+![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/e99a52f0-c440-44b3-9011-fb25c42d4425)
+
+Their listings are located in 45 different neighborhoods, each with varying prices as can be seen in the plot below. 
+
+![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/d09bff03-6d0b-41d3-b6f7-76584ba19077)
+
+The average price of all of their listings is $149.28
+
+The average availability of Sojourn' listings is 275 days per year. 
+
+Using the mean price of their listings, the availability and an average occupancy rate of 51.85%, Sojourn'yearly Airbnb revenue is $4,462,916.59.
+
+
+Licensed or not 
+
+The law imposing new restriction on short-term rentlas applies specifically to those rentals lastings less than 30 days at a time. Under the new law any D.C. homeowner who wants to rent out a bedroom, basement, or entire home on Airbnb or any other platform has to get a short-term rental license. If the owner is present in the home during the rental, they can host short-term renters as longas they want over the course of each year. But if they are not present (say they are renting their primary home while they are gone during the summer), those rentals are limited to a combined 90 days each year.
+
+
+![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/f1910b3c-abf8-4c2c-8242-a362fd105963)
+
 
 
 
@@ -85,57 +124,18 @@ Listings are available, on average, 193 days out of the year
 
 
 
-The Listings host distribution is designed to shows listings each host has on Airbnb. This can be useful for understanding the level of competition among the hosts. 
-
-![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/56c83a38-8558-4c9e-8710-22b90b54e34f)
-
-
-
-Over time, the number of listings has changed. As you can see from this plot, the number of unique listings in D.C. has increased. In the past few years, there has been a sharp increase, which levels off around 2023.
-
-![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/c6d2ad3a-43c1-4009-a9db-57dfb14a240e)
-
-
-Additionally, the total number of comments has changed over time, the graph below show that quantity of comments/reviews for listings in D.C has increased.
- 
-
-![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/370f974c-9907-4a3a-829d-f4ca9c2cc3b5)
-
-
-This plot shows sharb increase around 2023 that was seen above in the listings plot. 
 
 
 
 
-Housing
-
-The statistics displayed on this graph indicate that 76% of the listings in DC are for a entire home or apartment. Although this could result in higher profits for hosts and Airbnb, it also means that over 4000 potential housing units will not be accessible to residents throughout the year, which may concern housing regulators.
-
-![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/7e2f554d-8515-439d-8ebc-c71de10c61f7)
-
-The Listings host distribution is designed to shows listings each host has on Airbnb. This can be useful for understanding the level of competition among the hosts. 
-
-![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/56c83a38-8558-4c9e-8710-22b90b54e34f)
-
-
-The Sojourn Analysis
-
-Sojourn is an Airbnb host with 231 listings in Washington, DC. 
-
-![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/e99a52f0-c440-44b3-9011-fb25c42d4425)
-
-Their listings are located in 45 different neighborhoods, each with varying prices as can be seen in the plot below. 
-
-![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/d09bff03-6d0b-41d3-b6f7-76584ba19077)
-
-The average price of all of their listings is $149.28
-
-The average availability of Sojourn' listings is 275 days per year. 
-
-Using the mean price of their listings, the availability and an average occupancy rate of 51.85%, Sojourn'yearly Airbnb revenue is $4,462,916.59.
 
 
 
+
+
+
+
+T
 
 
 
