@@ -150,7 +150,8 @@ Listings are available, on average, 193 days out of the year
 
 
 
-
+As a result of my project, I gained quite a bit of information about Airbnb in Washington, D.C., which is going to be very helpful in planning my next trip there. 
+There are still many different angles I could take as follow up steps or improvement work on this project. My project could still be improved in many different ways. For example, I could group neighborhoods by ward and get the average price for each one, allowing me to plan appropriately by price and location simultaneously, also I could use latitude/longitude, different attractions or distance to mall to find the best host.
 
 
 
