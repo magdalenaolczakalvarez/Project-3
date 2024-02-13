@@ -26,7 +26,8 @@ Calendars: This dataset represents a ‘calendar’ of prices and listings for e
 Data Analysis
 
 
-Started the analysis by looking at the General Distribution of the Prices to get a feel for the pricing landscape:
+
+I started the analysis by looking at the General Distribution of the Prices to get a feel for the pricing landscape:
 Because 79% of listings fell under $300 per night, in my opinion the most affordable price, I plotted the distribution within this range for better visibility:
 
 ![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/bdc4875b-c0d3-4347-8894-e48bbbf1be49)
