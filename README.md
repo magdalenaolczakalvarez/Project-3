@@ -59,14 +59,35 @@ I have charted the median and mean prices of each neighborhood in Washington, DC
 
 
 
+Conclusion : 
+
+Through my EDA Analysis process, I found some initial insights about the data:
+
+There are 6,853 unique listings in D.C.
+
+The average price of all listings is $194
+
+Prices ranged from $10 to $1000
+
+Average number of listings per host is 2,012
+
+One host has 231 listings
+
+Listings are available, on average, 193 days out of the year
+
+32% of listings are the sole listing for that host
+
+352,242 reviews were written.
+
+
+
+
+
 
 
 The Listings host distribution is designed to shows listings each host has on Airbnb. This can be useful for understanding the level of competition among the hosts. 
 
 ![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/56c83a38-8558-4c9e-8710-22b90b54e34f)
-
-
-
 
 
 
