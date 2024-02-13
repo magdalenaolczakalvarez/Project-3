@@ -4,6 +4,7 @@ Description
 
 The popularity of Airbnb has skyrocketed over the past decade. A tool that allows travelers to experience destinations like locals instead of tourists. Homeowners also use it to make some extra money by renting out rooms or entire properties. Whether for the better or for the worse, Airbnb has transformed the travel and short-term rental industry.
 
+
 Data 
 
 The data used in this project comes from InsideAirbnb.com. This site houses datasets for Airbnb information on cities around the globe. It's an open source tool that scrapes Airbnb data to answer my question about how Airbnb data affects a city's housing landscape and as a potential guest, where are the most affordable yet well rated and reviewed listings? The raw data provided by them is extremely useful. 
@@ -18,6 +19,8 @@ Listings: The listings dataset includes the bulk of the data-listing names, loca
 Reviews: There are almost 505,377,000 reviews associated with unique listing ids. These are the same listing ids as in the Listings dataset. The dates of these reviews range from January 2023 to the time the data was collected.
 
 Calendars: This dataset represents a ‘calendar’ of prices and listings for each day for the following year (from the time the data was collected).
+
+
 
 
 Data Analysis
