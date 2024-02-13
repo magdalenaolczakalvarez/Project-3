@@ -18,7 +18,7 @@ Neighborhoods: This includes a list of defined neighborhoods as well as a geojso
 
 Listings: The listings dataset includes the bulk of the data-listing names, locations (latitude/longitude), neighborhoods, hosts, room types, prices, minimum nights the listing must be booked for, the number of reviews for that listing, the date when the last review was written, the average number of reviews per month, availability (number of days out of 365 the listing is available for booking), and the number of listings per host.
 
-Reviews: There are almost 505,377,000 reviews associated with unique listing ID`s. These are the same listing ids as in the Listings dataset. The dates of these reviews range from January 2023 to the time the data was collected.
+Reviews: There are almost 505,377,000 reviews associated with unique listing ID`s. These are the same listing ID1s as in the listings dataset. The dates of these reviews range from January 2023 to the time the data was collected.
 
 Calendars: This dataset represents a ‘calendar’ of prices and listings for each day for the following year (from the time the data was collected).
 
@@ -29,7 +29,7 @@ Data Analysis
 
 
 
-I started the analysis by looking at the General Distribution of the Prices to get a feel for the pricing landscape:
+I started the analysis by looking at the general distribution of the prices to get a feel for the pricing landscape.
 Because 79% of listings fell under $300 per night, in my opinion the most affordable price, I plotted the distribution within this range for better visibility:
 
 ![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/bdc4875b-c0d3-4347-8894-e48bbbf1be49)
