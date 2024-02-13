@@ -3,7 +3,7 @@
 Description
 
 
-The popularity of Airbnb has skyrocketed over the past decade. A tool that allows travelers to experience destinations like locals instead of tourists. Homeowners also use it to make some extra money by renting out rooms or entire properties. Whether for the better or for the worse, Airbnb has transformed the travel and short-term rental industry.
+The popularity of Airbnb has skyrocketed over the past decade, a tool that allows travelers to experience destinations like locals instead of tourists. Homeowners also use it to make some extra money by renting out rooms or entire properties. Whether for the better or for the worse, Airbnb has transformed the travel and short-term rental industry.
 Considering that my new job requires me to travel to Washington D.C and other places throughout the year, I decided to do an Airbnb analysis to see where I should book my next stay that is both affordable and convenient. 
 
 
