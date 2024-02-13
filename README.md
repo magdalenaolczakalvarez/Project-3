@@ -36,12 +36,14 @@ Because 79% of listings fell under $300 per night, in my opinion the most afford
 
 As can be seen, the distribution is left-skewed meaning that the very few listings priced very high influence the distribution shape whereas most of the listings are centered around $100 and is under $200.
 
-From an initial summary data inquiry, the median is $120 and the mean is $194 which is pretty affordable keeping in mind that this is the capital city of the United States. 
+From an initial summary data inquiry, the median is $120 and the mean is $194 which is pretty affordable, so keep in mind that this is the capital city of the United States. 
+
+
 
 
 Room Types and Price Distribution
 
-The statistics displayed on this graph indicate that 76% of the listings in DC are for a entire home or apartment. Although this could result in higher profits for hosts and Airbnb, it also means that over 4000 potential housing units will not be accessible to residents throughout the year, which may concern housing regulators. Entire home listings have the most potential to disrupt residential communities, remove housing, displace residence, raise housing costs, and conflict with zoning laws. 
+The statistics displayed on this graph indicate that 76% of the listings in D.C. are for an entire home or apartment. Although this could result in higher profits for hosts and Airbnb, it also means that over 4000 potential housing units will not be accessible to residents throughout the year, which may concern housing regulators. Entire home listings have the most potential to disrupt residential communities, remove housing, displace residence, raise housing costs, and conflict with zoning laws. 
 
 
 ![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/7e2f554d-8515-439d-8ebc-c71de10c61f7)
@@ -50,7 +52,7 @@ The statistics displayed on this graph indicate that 76% of the listings in DC a
 
 In-depth Analysis by Neighborhood 
 
-I have charted the median and mean prices of each neighborhood in Washington, DC, as well as the average prices of the three cheapest and most expensive neighborhoods, to indicate which neighborhood interests me most. 
+I have charted the median and mean prices of each neighborhood in Washington, D.C., as well as the average prices of the three cheapest and most expensive neighborhoods, to indicate which neighborhood interests me most. 
 
 
 ![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/50c69801-bbb1-4216-884c-f0e40403f6a5)
@@ -73,7 +75,7 @@ Over time, the number of listings has changed. As you can see from this plot, th
 
 The Sojourn Analysis
 
-Sojourn is an Airbnb host with 231 listings in Washington, DC. 
+Sojourn is an Airbnb host with 231 listings in Washington, D.C. 
 
 ![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/e99a52f0-c440-44b3-9011-fb25c42d4425)
 
@@ -85,14 +87,14 @@ The average price of all of their listings is $149.28
 
 The average availability of Sojourn' listings is 275 days per year. 
 
-Using the mean price of their listings, the availability and an average occupancy rate of 51.85%, Sojourn'yearly Airbnb revenue is $4,462,916.59.
+Using the mean price of their listings, the availability and an average occupancy rate of 51.85%, Sojourn's yearly Airbnb revenue is $4,462,916.59.
 
 
 
 
 Licensed or Not 
 
-The law imposing new restriction on short-term rentlas applies specifically to those rentals lastings less than 30 days at a time. Under the new law any D.C. homeowner who wants to rent out a bedroom, basement, or entire home on Airbnb or any other platform has to get a short-term rental license. If the owner is present in the home during the rental, they can host short-term renters as longas they want over the course of each year. But if they are not present (say they are renting their primary home while they are gone during the summer), those rentals are limited to a combined 90 days each year.
+The law imposing new restriction on short-term rentals applies specifically to those rentals lasting less than 30 days at a time. Under the new law, any D.C. homeowner who wants to rent out a bedroom, basement, or entire home on Airbnb or any other platform has to get a short-term rental license. If the owner is present in the home during the rental, they can host short-term renters as long as they want over the course of each year. But if they are not present (say they are renting their primary home while they are gone during the summer), those rentals are limited to a combined 90 days each year.
 
 
 ![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/f1910b3c-abf8-4c2c-8242-a362fd105963)
