@@ -103,20 +103,43 @@ Conclusion :
 Through my EDA Analysis process, I found some initial insights about the data:
 
 There are 6,853 unique listings in D.C.
+![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/d3078536-8820-43f5-adaa-7138be3b63d9)
+
 
 The average price of all listings is $194
 
+![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/50e46713-c6a4-48ff-b506-699906a060b6)
+
+
 Prices ranged from $10 to $1000
+
+![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/d219fa18-df42-4e87-abbb-c444f1f8417c)
+
 
 Average number of listings per host is 2,012
 
+![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/d54d858f-4b8b-48ed-b36e-acf2462ef898)
+
+
 One host has 231 listings
+
+![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/3fe2d787-daa7-436a-bdef-b9a0e6baf0eb)
+
 
 Listings are available, on average, 193 days out of the year
 
+![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/873da3ce-7916-42fc-b49e-c2d8785734ac)
+
+
 32% of listings are the sole listing for that host
 
+![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/a641be8c-0818-40ae-bb30-f0cee173263d)
+
+
 352,242 reviews were written.
+
+![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/b0b0d030-9c02-47e6-96cd-fcab0b4034db)
+
 
 
 
