@@ -71,7 +71,7 @@ Over time, the number of listings has changed. As you can see from this plot, th
 
 
 
-he Sojourn Analysis
+The Sojourn Analysis
 
 Sojourn is an Airbnb host with 231 listings in Washington, DC. 
 
