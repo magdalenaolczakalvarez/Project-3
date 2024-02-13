@@ -2,12 +2,14 @@
 
 Description
 
+
 The popularity of Airbnb has skyrocketed over the past decade. A tool that allows travelers to experience destinations like locals instead of tourists. Homeowners also use it to make some extra money by renting out rooms or entire properties. Whether for the better or for the worse, Airbnb has transformed the travel and short-term rental industry.
+Considering that my new job requires me to travel to Washington D.C and other places throughout the year, I decided to do an Airbnb analysis to see where I should book my next stay that is both affordable and convenient. 
 
 
 Data 
 
-The data used in this project comes from InsideAirbnb.com. This site houses datasets for Airbnb information on cities around the globe. It's an open source tool that scrapes Airbnb data to answer my question about how Airbnb data affects a city's housing landscape and as a potential guest, where are the most affordable yet well rated and reviewed listings? The raw data provided by them is extremely useful. 
+The data used in this project comes from InsideAirbnb.com. This site houses datasets for Airbnb information on cities around the globe. The tool scrapes Airbnb data to answer my question, as a potential guest, of where are the most affordable, well-rated and well-reviewed listings, and as a courtesy, I'd like to see how Airbnb data affects a city's housing landscape. The data they provide is extremely useful for addressing those questions. 
 
 
 There are four csv files per city available on this site for download: Listings, Neighborhoods, Reviews, and Calendar. Each dataset contains different information with some overlap.
@@ -44,12 +46,17 @@ The statistics displayed on this graph indicate that 76% of the listings in DC a
 ![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/7e2f554d-8515-439d-8ebc-c71de10c61f7)
 
 
+
 In-depth Analysis by Neighborhood 
 
- 
+I have charted the median and mean prices of each neighborhood in Washington, DC, as well as the average prices of the three cheapest and most expensive neighborhoods, to indicate which neighborhood interests me most. 
 
 
 ![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/50c69801-bbb1-4216-884c-f0e40403f6a5)
+
+
+![image](https://github.com/magdalenaolczakalvarez/Project-3/assets/145025544/c295bf0c-4c19-479d-b2ba-a55497ec21a9)
+
 
 
 
